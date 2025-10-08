@@ -1,4 +1,4 @@
-#Checkpoint: Web Development Basics
+📌 Checkpoint: Web Development Basics
 
 This checkpoint covers my first steps in web development fundamentals. It includes short Q&A answers about:
 
