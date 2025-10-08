@@ -7,3 +7,4 @@ This checkpoint highlights my introduction to core web development concepts. It 
 - Adding interactivity using JavaScript  
 - Awareness of React and Node.js for modern development  
 - My motivation to advance beyond my Full Stack JavaScript bootcamp and strengthen my skills through this MSc program  
+---
