@@ -1,0 +1,17 @@
+Web Development Basics:
+Web development is the process of creating websites and web applications. It’s essential because it brings information and services to users on the internet.
+
+HTML Knowledge:
+Yes, HTML stands for HyperText Markup Language. It’s used to structure the content of web pages.
+
+CSS Understanding:
+Yes, CSS (Cascading Style Sheets) is used to style and design web pages, making them look attractive and organized.
+
+Introduction to JavaScript:
+Yes, JavaScript is a programming language for the web. It makes websites interactive and dynamic instead of just static pages.
+
+React and Node.js Awareness:
+Yes, React is a JavaScript library for building user interfaces. Node.js is a runtime environment for running JavaScript on the server side.
+
+Learning Intentions:
+I already completed a Full Stack JavaScript bootcamp, and now I want to upgrade my skills to a higher level. This MSc program feels like a “level 2” for me, where I can deepen my knowledge in HTML, CSS, JavaScript, React, and Node.js to become more advanced and professional.
